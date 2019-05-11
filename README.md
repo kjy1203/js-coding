@@ -2,4 +2,4 @@
 
 ## start
 
-编写一段js代码，hello world
+code an example of js
